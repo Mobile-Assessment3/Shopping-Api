@@ -9,7 +9,7 @@
    - Create a virtual environment yourenvName
    - python3 -m venv yourenvName
 
- # Activate the virtual environment
+  # Activate the virtual environment
    - source yourenvName/bin/activate
 
 2. Requirements
